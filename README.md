@@ -30,6 +30,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Next.js-32a8a4?style=flat&logo=Next.js&logoColor=white"/>
 -->
  </div>
- <br /><br />
- 
- 
